@@ -21,6 +21,6 @@ so you can seamlessly join lobbies through the server browser
 
    ```sh
    pip install requests beautifulsoup4
-   git clone [https://github.com/yourusername/server-list-scraper](https://github.com/HeartbeatingForCenturies/H2MServerScraper).git
+   git clone https://github.com/HeartbeatingForCenturies/H2MServerScraper.git
    cd H2MServerScraper
    py H2MServerScraper.py
